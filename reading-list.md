@@ -1,6 +1,5 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Publications
 layout: "page"
 icon: fa-book
 order: 3
