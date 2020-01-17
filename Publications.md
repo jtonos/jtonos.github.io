@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: CV
 layout: "page"
 icon: fa-book
 order: 3
