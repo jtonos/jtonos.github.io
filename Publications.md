@@ -6,4 +6,4 @@ order: 3
 ---
 
 
-<a href="username.github.io/assets/images/Tonos_CV_December2020.pdf" target="_blank">PDF.</a>
+<a href="jtonos.github.io/assets/images/Tonos_CV_December2020.pdf" target="_blank">Tonos_CV</a>
