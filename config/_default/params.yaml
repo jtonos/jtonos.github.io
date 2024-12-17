@@ -6,11 +6,12 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  mode: dark 
+  theme_day: 
   theme_night:
   font: native
   font_size: L
-  mode: dark
+  
 
 # SEO
 
