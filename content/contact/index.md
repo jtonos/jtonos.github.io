@@ -20,7 +20,7 @@ sections:
         country: United States
         country_code: US
       coordinates:
-        latitude: '337.723443'
+        latitude: '37.723443'
         longitude: '-122.476107'
       directions: Hensil Hall 218
       #office_hours:
