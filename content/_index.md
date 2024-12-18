@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        In the Tonos lab we study plant-animal interactions, with a particular focus on seed dispersal and frugivory. In our work we seek to document interactions, study the structure of interactions at the individual-organisms and species levels, and examine how interactions are impacted by human-driven environmental change.
   
   - block: collection
     content:
@@ -45,7 +45,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: lemur_harungana.jpg
           filters:
             brightness: 1
           parallax: false
