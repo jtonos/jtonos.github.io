@@ -57,8 +57,8 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
- # - Researchers
+user_groups:
+  - Researchers
 ---
 
 Jadelys Tonos is an assitant profesor in the Department of Biology at San Francisco State University. Her research is focused on the study of mutualisms, seeking to document positive interactions in nature and examine their strucuture and resilience to human-driven environmental change. Much of her work to date has focused on examining patterns in frugivory and seed dispersal by lemurs in Ranomafana National Park in Madagascar. Ongoing and future work is focused on examining the role of poorly studied frugivores in Madagascar, assessing the impact of restoration efforts on plant-frugivore interactions in California, and examining the impact of climate change on the phenology of plants, birds and plnt-bird interactions in California.  
