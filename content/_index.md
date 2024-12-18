@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Mutualisms in a changing world
       image:
         filename: welcome.jpg
       text: |
