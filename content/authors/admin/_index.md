@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Jade Tonos, 
+title: Dr. Jade Tonos 
 
 # Full Name (for SEO)
 first_name: Jadelys
