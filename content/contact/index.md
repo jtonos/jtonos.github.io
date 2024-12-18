@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        If you are interested in joining the lab as an undergraduate researcher or masters student reach out via email. Please include a short statement detailing you research interests, your academic status, and any relevant previous experiences. Please also attch a CV and recent transcript.
+        If you are interested in joining the lab as an undergraduate researcher or masters student reach out via email. Please include a short statement detailing you research interests, your academic status, and any relevant previous experiences. Please also attch a CV and recent transcript. For advertised positions please look at the news page.
       email: jade@sfsu.edu
       #phone: 888 888 88 88
       address:
