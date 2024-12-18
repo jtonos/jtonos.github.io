@@ -6,9 +6,8 @@
 # Appearance
 
 appearance:
-  mode: dark 
-  theme_day: 
-  theme_night:
+  theme_day: minimalist
+  theme_night: minimalist
   font: native
   font_size: L
   
@@ -40,7 +39,7 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: false
 
 # Site footer
