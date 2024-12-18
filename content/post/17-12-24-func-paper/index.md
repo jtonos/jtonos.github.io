@@ -1,6 +1,6 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: New article in Functional Ecology!
+date: 2024-12-15
 ---
 
 New article published examining how lemur foraging and movement decitions impact seed dispersal. 
