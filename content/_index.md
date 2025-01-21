@@ -7,14 +7,12 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Mutualisms in a changing world
+      title: Mutualisms in a changing world
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        In the Tonos lab we study plant-animal interactions, with a particular focus on seed dispersal and frugivory. In our work we seek to document interactions, study the structure of interactions at the individual-organisms and species levels, and examine how interactions are impacted by human-driven environmental change.
+        We study plant-animal interactions, with a particular focus on seed dispersal and frugivory. Many of our projects are geared towards documenting understudied interactions, assessing the structure of mutualisms at the individual-individual and species interaction levels, and examine how interactions are impacted by human-driven environmental change.
   
   - block: collection
     content:
