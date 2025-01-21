@@ -4,6 +4,8 @@ title:
 date: 2022-10-24
 type: landing
 
+
+sections:
   - block: markdown
     content:
       title:
@@ -24,7 +26,6 @@ type: landing
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-sections:
   - block: hero
     content:
       title: Mutualisms in a Changing World
