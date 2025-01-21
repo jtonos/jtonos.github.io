@@ -4,6 +4,26 @@ title:
 date: 2022-10-24
 type: landing
 
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: lemur_harungana.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+
 sections:
   - block: hero
     content:
@@ -23,7 +43,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 1
       filters:
         author: ''
         category: ''
@@ -46,25 +66,7 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: lemur_harungana.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+
 
 
 ---
