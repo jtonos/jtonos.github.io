@@ -20,10 +20,10 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: 1000px
+          size: 50%
           text_color_light: true
       spacing:
-        padding: ['100px', '0', '100px', '0']
+        padding: ['o', '0', '0', '0']
       css_class: fullscreen
 
   - block: hero
