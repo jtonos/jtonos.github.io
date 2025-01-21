@@ -23,7 +23,7 @@ sections:
           size: 1000px
           text_color_light: true
       spacing:
-        padding: ['10px', '0', '10px', '0']
+        padding: ['100px', '0', '100px', '0']
       css_class: fullscreen
 
   - block: hero
@@ -31,7 +31,7 @@ sections:
       title: Mutualisms in a Changing World
       title: Mutualisms in a Changing World
       image:
-        filename: lemur_portrait
+        filename: lemur_portrait.jpg
       text: |
         <br>
         We study plant-animal interactions, with a particular focus on seed dispersal and frugivory. Many of our projects are geared towards documenting understudied interactions, assessing the structure of mutualisms at the individual-individual and species interaction levels, and examine how interactions are impacted by human-driven environmental change.
