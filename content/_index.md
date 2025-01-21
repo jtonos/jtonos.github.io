@@ -6,29 +6,22 @@ type: landing
 
 
 sections:
-  - block: markdown
+- block: resume-biography
     content:
-      title:
-      subtitle: ''
-      text:
+      # The user's folder name in `content/authors/`
+      username: admin
+      # Show a call-to-action button under your biography? (optional)
+      # To link to a file, upload it to your `static/uploads/` folder
     design:
-      columns: '1'
-      background:
-        image: 
-          filename: lemur_harungana.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: 50%
-          text_color_light: true
-      spacing:
-        padding: ['o', '0', '0', '0']
-      css_class: fullscreen
-
+      banner:
+        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
+        filename: lemur_harungana.jpg
+      biography:
+        # Customize the CSS style of your biography text (optional)
+        style: font-size: 18px; line-height: 1.6; color: #555; font-family: Arial, sans-serif; text-align: justify;
+        
   - block: hero
     content:
-      title: Mutualisms in a Changing World
       title: Mutualisms in a Changing World
       image:
         filename: lemur_portrait.jpg
