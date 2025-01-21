@@ -5,15 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-- block: resume-biography
-    content:
-      username: admin
-    design:
-      banner:
-        filename: lemur_harungana.jpg
-      biography:
-        style: font-size: 18px; line-height: 1.6; color: #555; font-family: Arial, sans-serif; text-align: justify;
-        
   - block: hero
     content:
       title: Mutualisms in a Changing World
