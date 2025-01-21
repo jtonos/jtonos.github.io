@@ -8,6 +8,9 @@ sections:
   - block: hero
     content:
       title: Mutualisms in a Changing World
+      title: Mutualisms in a Changing World
+      image:
+        filename: icon.jpg
       text: |
         <br>
         We study plant-animal interactions, with a particular focus on seed dispersal and frugivory. Many of our projects are geared towards documenting understudied interactions, assessing the structure of mutualisms at the individual-individual and species interaction levels, and examine how interactions are impacted by human-driven environmental change.
