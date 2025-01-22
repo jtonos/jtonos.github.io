@@ -18,8 +18,13 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Our publications
+          url: ../publication/
+      - title: Check out our News page! 
+        content: There you can find our latest research updates and opportunities for students and collaborators
         align: left
         background:
           image:
@@ -28,27 +33,17 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
         link:
           icon: graduation-cap
           icon_pack: fas
           text: Join Us
-          url: ../contact/
+          url: ../post/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
+      slide_height: 400
+      is_fullscreen: false
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
 ---
