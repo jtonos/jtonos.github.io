@@ -1,6 +1,6 @@
 ---
 title: Apply to join the lab as a San Francisco State University Masters Student!
-date: 2024-12-15
+date: 2025-1-21
 ---
 
 The Tonos Lab is accepting graduate application for students starting in the Fall of 2025! 
