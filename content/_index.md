@@ -23,7 +23,7 @@ sections:
           icon_pack: fas
           text: Our publications
           url: ../publication/
-      - title: Check out our News page! 
+      - title: Check out our lab news! 
         content: There you can find our latest research updates and opportunities for students and collaborators
         align: left
         background:
@@ -36,7 +36,22 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
+          text: News
+          url: ../post/
+      - title: Meet our Team! 
+        content: 
+        align: left
+        background:
+          image:
+            filename: team_2017.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Lab members
           url: ../post/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
