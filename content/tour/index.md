@@ -8,12 +8,12 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to the Tonos Lab
+        content: Our reserach focus is the study of mutualisms in a changing world.
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: lemur_harungana.jpg
             filters:
               brightness: 0.7
           position: right
