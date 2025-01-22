@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to the Tonos Lab
-        content: Our reserach focus is the study of mutualisms in a changing world.
+        content: Our research focus is the study of mutualisms in a changing world.
         align: center
         background:
           image:
@@ -52,7 +52,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Lab members
-          url: ../post/
+          url: ../people/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: 800px
