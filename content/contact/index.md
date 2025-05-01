@@ -22,7 +22,7 @@ sections:
       coordinates:
         latitude: '37.723443'
         longitude: '-122.476107'
-      directions: Hensil Hall 218
+      directions: Hensil Hall 450
       #office_hours:
        # - 'Monday 10:00 to 13:00'
         #- 'Wednesday 09:00 to 10:00'
