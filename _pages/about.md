@@ -23,3 +23,20 @@ In the San Francisco Bay Area, we examine how native and introduced plants contr
 ### Primate foraging, movement, and forest communities
 
 Our primate research examines how individual variation in movement and foraging scales up to shape plant–animal interactions, seed dispersal, and forest community structure. Much of this work has focused on lemurs in Madagascar, where we use individual-level movement, behavioral observations, and plant–lemur interaction networks to examine variation among individuals in foraging strategies, spatial patterns of seed dispersal, and the unequal contributions individuals can make to mutualistic interactions. At broader scales, we are interested in how primates contribute to patterns of tropical forest diversity and regeneration globally, and in the ecological consequences of primate population declines and loss for the plant communities that depend on them.
+
+
+<div style="display: flex; gap: 18px; margin-top: 30px;">
+
+  <img src="/images/Madagascar.jpg"
+       alt="Eulemur rubriventer"
+       style="width: 32%; aspect-ratio: 1 / 1; object-fit: cover;">
+
+  <img src="/images/IMG_3408.jpg"
+       alt="Mixed-used protected area boundary"
+       style="width: 32%; aspect-ratio: 1 / 1; object-fit: cover;">
+
+  <img src="/images/guava.jpg"
+       alt="Invasive strawberry guava"
+       style="width: 32%; aspect-ratio: 1 / 1; object-fit: cover;">
+
+</div>
