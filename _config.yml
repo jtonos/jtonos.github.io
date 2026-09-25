@@ -25,23 +25,21 @@ author:
   # Biographic information
   avatar           : "icon.png"
   name             : "Dr. Jadelys Tonos"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "she/her"  
+  employer         : "San Francisco State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jade@sfsu.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=5sAhfmcAAAAJ&gmla=AERr9JHSmQZU5KQplXCvBvu-1agHQBEdMiQHMW4dfXPwKkpUVgRfv1oa7ChZNJWnX5STJcO5brCEXYoz2HxN3z5xGdg3MX5hxg"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : #URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  #URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
