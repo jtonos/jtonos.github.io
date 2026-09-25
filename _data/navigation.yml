@@ -8,17 +8,11 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Tonos Lab"
-    url: /
-
   - title: "News"
     url: /news/
   
   - title: "People"
     url: /people/
-
-  - title: "Research"
-    url: /research/
 
   - title: "Publications"
     url: /publications/
