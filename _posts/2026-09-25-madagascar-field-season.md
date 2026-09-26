@@ -1,6 +1,6 @@
 ---
-title: "Tonos Lab graduate students return from a field season in Mananara, Madagascar!"
-date: 2026-09-25
+title: "Tonos Lab graduate students return from a field season in La Mananara, Madagascar!"
+date: 2026-08-01
 author: "Jadelys Tonos"
 image: "/images/la_mananara_team_2026.jpg"
 ---
