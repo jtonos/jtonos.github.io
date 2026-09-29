@@ -5,32 +5,94 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<style>
+.publication-list {
+  max-width: 900px;
+}
 
-{% include base_path %}
+.publication-list h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+.publication-entry {
+  margin-bottom: 1rem;
+  padding-left: 2rem;
+  text-indent: -2rem;
+  line-height: 1.55;
+}
+</style>
 
+<div class="publication-list">
 
+## 2026
 
+<div class="publication-entry">
+Tonos, J., Rakotoarisoa, H., and Razafindratsima, O. H. 2026. Inequalities in intraspecific plant–lemur interactions drive seed dispersal patterns. <em>Oikos</em> 2026:e11808. <a href="https://doi.org/10.1002/oik.11808">DOI</a>
+</div>
+
+<div class="publication-entry">
+Rakotoarisoa, H., Tonos, J., Hilden-Reid, H., and Razafindratsima, O. H. 2026. Living in the dark: Exploring the factors driving nocturnal activity in three lemur species. <em>Ecology and Evolution</em> 16:e72819. <a href="https://doi.org/10.1002/ece3.72819">DOI</a>
+</div>
+
+## 2025
+
+<div class="publication-entry">
+Tonos, J., Jones, L. R., Razafindratsima, O. H., and Dunham, A. E. 2025. Foraging strategies by a frugivorous primate (<em>Eulemur rubriventer</em>) shape spatial patterns of seed dispersal. <em>Functional Ecology</em> 39:542–554. <a href="https://doi.org/10.1111/1365-2435.14702">DOI</a>
+</div>
+
+<div class="publication-entry">
+Tonos, J., Papinot, B., Park, D. S., Raelison, M., Ramaroson, H., Stubbs, J., and Razafindratsima, O. H. 2025. Examining the structure of plant–lemur interactions in the face of imperfect knowledge. <em>Conservation Biology</em> 39:e14323. <a href="https://doi.org/10.1111/cobi.14323">DOI</a>
+</div>
+
+## 2024
+
+<div class="publication-entry">
+Andriantsaralaza, S., Razafindratsima, O. H., Razanamaro, O. H., Ramananjato, V., Randimbiarison, F., Raoelinjanakolona, N. N., Rabarijaonina, T. H. P., Raharinomena, N., Hobimalala, N., Nantenaina, R. H., Tonos, J. M., and Andriamiadana, S. 2024. Seed dispersal of Madagascar’s iconic baobab species, <em>Adansonia grandidieri</em>. <em>Biotropica</em> 56:e13373. <a href="https://doi.org/10.1111/btp.13373">DOI</a>
+</div>
+
+<div class="publication-entry">
+Tonos, J., Rakotoarisoa, H., Ramananjato, V., Randimbiarison, F., and Razafindratsima, O. H. 2024. Biotic and abiotic dispersal of a large-seeded keystone genus in Madagascar. <em>Biodiversity and Conservation</em> 33:2995–3010. <a href="https://doi.org/10.1007/s10531-024-02900-2">DOI</a>
+</div>
+
+## 2023
+
+<div class="publication-entry">
+Fuzessy, L., Balbuena, J. A., Nevo, O., Tonos, J., Papinot, B., Park, D., Sol, D., Valenta, K., Razafindratsima, O. H., and Verdú, M. 2023. Friends or foes? Plant–animal coevolutionary history is driven by both mutualistic and antagonistic interactions. <em>Authorea</em> [preprint]. <a href="https://doi.org/10.22541/au.168190585.53405707/v1">DOI</a>
+</div>
+
+## 2022
+
+<div class="publication-entry">
+Tonos, J., Razafindratsima, O. H., Fenosoa, Z. S. E., and Dunham, A. E. 2022. Individual-based networks reveal the highly skewed interactions of a frugivore mutualist with individual plants in a diverse community. <em>Oikos</em> 2022. <a href="https://doi.org/10.1111/oik.08539">DOI</a>
+</div>
+
+<div class="publication-entry">
+Razafindratsima, O. H., Tonos, J., Ramananjato, V., Dunham, A. E., and Andriamavosoloarisoa, M. N. N. 2022. Frugivory and seed dispersal. In <em>The New Natural History of Madagascar</em>, pp. 142–152. Princeton University Press. <a href="https://doi.org/10.2307/j.ctv2ks6tbb.26">DOI</a>
+</div>
+
+## 2021
+
+<div class="publication-entry">
+Gorczynski, D., Hsieh, C., Tonos Luciano, J., Ahumada, J., Espinosa, S., Johnson, S., Rovero, F., Santos, F., Andrianarisoa, M. H., Hurtado Astaiza, J., Jansen, P. A., Kayijamahe, C., Moreira Lima, M. G., Salvador, J., and Beaudrot, L. 2021. Tropical mammal functional diversity increases with productivity but decreases with anthropogenic disturbance. <em>Proceedings of the Royal Society B: Biological Sciences</em> 288:20202098. <a href="https://doi.org/10.1098/rspb.2020.2098">DOI</a>
+</div>
+
+## 2020
+
+<div class="publication-entry">
+DeSisto, C. M. M., Park, D. S., Davis, C. C., Ramananjato, V., Tonos, J. L., and Razafindratsima, O. H. 2020. An invasive species spread by threatened diurnal lemurs impacts rainforest structure in Madagascar. <em>Biological Invasions</em> 22:2845–2858. <a href="https://doi.org/10.1007/s10530-020-02293-7">DOI</a>
+</div>
+
+## 2017
+
+<div class="publication-entry">
+LaBonte, N. R., Tonos, J., Hartel, C., and Woeste, K. E. 2017. Genetic diversity and differentiation of yellowwood [<em>Cladrastis kentukea</em> (Dum.Cours.) Rudd] growing in the wild and in planted populations outside the natural range. <em>New Forests</em> 48:263–274. <a href="https://doi.org/10.1007/s11056-017-9566-8">DOI</a>
+</div>
+
+## 2014
+
+<div class="publication-entry">
+Tonos, J. M., Pauli, B. P., Zollner, P. A., and Haulton, G. S. 2014. A comparison of the efficiency of mobile and stationary acoustic bat surveys. <em>Proceedings of the Indiana Academy of Science</em> 123:103–111.
+</div>
+
+</div>
