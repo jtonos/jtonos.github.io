@@ -111,7 +111,7 @@ author_profile: true
     </div>
 
     <div class="undergrad-student">
-      <img src="{{ '/images/icon.png.jpg' | relative_url }}" alt="Student Four">
+      <img src="{{ '/images/icon.png.png' | relative_url }}" alt="Student Four">
       <p>Brenda Penaloza</p>
     </div>
 
