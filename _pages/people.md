@@ -18,7 +18,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 28px;">
-  <img src="/images/wiki/fen.jpeg.jpg"
+  <img src="/images/wiki/fen.jpeg"
        alt="Fen Conway"
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 8px;">
 
