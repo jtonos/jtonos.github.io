@@ -50,16 +50,90 @@ author_profile: true
     <p>Meredith's research will examine how restoration may impact the structure, and outcomes, of plant-frugivore bird interactions in the San Francisco Bay Area.</p>
   </div>
 </div>
+
 ## Undergraduate Students
 
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 28px;">
-  <img src="/images/student3.jpg"
-       alt="Student Name"
-       style="width: 140px; height: 140px; object-fit: cover; border-radius: 8px;">
+<style>
+.undergrad-project {
+  margin-bottom: 40px;
+}
 
-  <div>
-    <h3 style="margin-top: 0;">Student Name</h3>
-    <p>One-sentence description of their research interests or role in the lab.</p>
+.undergrad-project h3 {
+  margin-bottom: 20px;
+  font-size: 1.15em;
+}
+
+.undergrad-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 24px;
+  max-width: 850px;
+}
+
+.undergrad-student {
+  text-align: center;
+}
+
+.undergrad-student img {
+  width: 140px;
+  height: 140px;
+  max-width: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.undergrad-student p {
+  margin-top: 8px;
+  font-size: 0.95em;
+  font-weight: 500;
+}
+</style>
+
+<div class="undergrad-project">
+
+  <h3>Examining the overlap in fruiting phenology of native and invasive plants, and their impact of plant-frugivore interactions, in the San Francisco Bay area</h3>
+
+  <div class="undergrad-grid">
+
+    <div class="undergrad-student">
+      <img src="{{ '/images/wiki/cece.jpeg' | relative_url }}" alt="Student One">
+      <p>Cece Boyd</p>
+    </div>
+
+    <div class="undergrad-student">
+      <img src="{{ '/images/wiki/maceo.jpg' | relative_url }}" alt="Student Two">
+      <p>Maceo Carney</p>
+    </div>
+
+    <div class="undergrad-student">
+      <img src="{{ '/images/icon.png' | relative_url }}" alt="Student Three">
+      <p>Fen Cryderman</p>
+    </div>
+
+    <div class="undergrad-student">
+      <img src="{{ '/images/icon.png.jpg' | relative_url }}" alt="Student Four">
+      <p>Brenda Penaloza</p>
+    </div>
+
+  </div>
+</div>
+
+<div class="undergrad-project">
+
+  <h3>Project Title Two</h3>
+
+  <div class="undergrad-grid">
+
+    <div class="undergrad-student">
+      <img src="{{ '/images/student5.jpg' | relative_url }}" alt="Student Five">
+      <p>Student Five</p>
+    </div>
+
+    <div class="undergrad-student">
+      <img src="{{ '/images/student6.jpg' | relative_url }}" alt="Student Six">
+      <p>Student Six</p>
+    </div>
+
   </div>
 </div>
 
