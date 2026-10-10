@@ -7,7 +7,7 @@ author_profile: true
 ## Graduate Students
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 28px;">
-  <img src="/images/wiki/icon.jpg"
+  <img src="/images/wiki/icon.png"
        alt="Michaela Figari"
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 8px;">
 
