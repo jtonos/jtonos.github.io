@@ -7,7 +7,7 @@ author_profile: true
 ## Graduate Students
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 28px;">
-  <img src="/images/wiki/icon.png"
+  <img src="/images/wiki/michaela.jpg"
        alt="Michaela Figari"
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 8px;">
 
@@ -18,13 +18,13 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 28px;">
-  <img src="/images/student2.jpg"
-       alt="Student Name"
+  <img src="/images/wiki/fen.jpeg.jpg"
+       alt="Fen Conway"
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 8px;">
 
   <div>
-    <h3 style="margin-top: 0;">Student Name</h3>
-    <p>One-sentence description of their research interests or current project.</p>
+    <h3 style="margin-top: 0;">Fen Conway</h3>
+    <p>Fen is examining how habitat degradation reorganizes plant-frugivore bird interaction network in Madagascar.</p>
   </div>
 </div>
 
