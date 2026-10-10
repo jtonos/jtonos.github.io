@@ -111,13 +111,13 @@ author_profile: true
     </div>
 
     <div class="undergrad-student">
-      <img src="{{ '/images/icon.png.png' | relative_url }}" alt="Student Four">
+      <img src="{{ '/images/icon.png' | relative_url }}" alt="Student Four">
       <p>Brenda Penaloza</p>
     </div>
 
   </div>
 </div>
-
+<!--
 <div class="undergrad-project">
 
   <h3>Project Title Two</h3>
@@ -150,3 +150,4 @@ author_profile: true
     <p>One-sentence description of their former lab project and/or current position.</p>
   </div>
 </div>
+-->
