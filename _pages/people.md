@@ -7,13 +7,13 @@ author_profile: true
 ## Graduate Students
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 28px;">
-  <img src="/images/student1.jpg"
-       alt="Student Name"
+  <img src="/images/wiki/icon.jpg"
+       alt="Michaela Figari"
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 8px;">
 
   <div>
-    <h3 style="margin-top: 0;">Student Name</h3>
-    <p>One-sentence description of their research interests or current project.</p>
+    <h3 style="margin-top: 0;">Michaela Figari</h3>
+    <p>Michaela is studying the impact of habitat degradation on bird communities in Madagascar's rainforests.</p>
   </div>
 </div>
 
