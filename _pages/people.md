@@ -91,7 +91,7 @@ author_profile: true
 
 <div class="undergrad-project">
 
-  <h3>Examining the overlap in fruiting phenology of native and invasive plants, and their impact of plant-frugivore interactions, in the San Francisco Bay area</h3>
+  <h3>Examining the overlap in fruiting phenology of native and invasive plants, and their impact of plant-frugivore interactions in the San Francisco Bay area</h3>
 
   <div class="undergrad-grid">
 
