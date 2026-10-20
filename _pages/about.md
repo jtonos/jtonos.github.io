@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mutualims in a changing world"
+title: "Mutualisms in a changing world"
 author_profile: true
 redirect_from: 
   - /about/
